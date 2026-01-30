@@ -16,6 +16,11 @@ This repo contains the list of blogs I have written during the ChaiCode web dev 
 | 7 | Understanding Network Devices | Networking | [Read](https://blog.muzammiltanwar.com/understanding-network-devices) |
 | 8 | TCP Working: 3-Way Handshake & Reliable Communication | Networking | [Read](https://blog.muzammiltanwar.com/tcp-working-3-way-handshake-and-reliable-communication) |
 | 9 | TCP vs UDP: When to Use What, and How TCP Relates to HTTP | Networking | [Read](https://blog.muzammiltanwar.com/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) |
+| 10 | How a Browser Works: A Beginner-Friendly Guide to Browser Internals | Browser | [Read](https://blog.muzammiltanwar.com/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) |
+| 11 | Understanding HTML Tags and Elements | HTML | [Read](https://blog.muzammiltanwar.com/understanding-html-tags-and-elements) |
+| 12 | Emmet for HTML: A Beginner’s Guide to Writing Faster Markup | HTML | [Read](https://blog.muzammiltanwar.com/emmet-for-html-a-beginners-guide-to-writing-faster-markup) |
+| 13 | CSS Selectors 101: Targeting Elements with Precision | CSS | [Read](https://blog.muzammiltanwar.com/css-selectors-101-targeting-elements-with-precision) |
+
 
 <hr>
 
